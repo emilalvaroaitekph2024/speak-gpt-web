@@ -244,7 +244,7 @@ function WelcomePage() {
                                 utilizes the powerful OpenAI technologies to provide you with unparalleled performance
                                 and functionality.</p>
                             <div className={"btn-row"}>
-                                <a href={"/chat"}><MaterialButton24>Launch SpeakGPT</MaterialButton24></a>
+                                <a href={"/chat"}><MaterialButton24>Launch SpeakGPH</MaterialButton24></a>
                                 &nbsp;&nbsp;&nbsp;&nbsp;
                                 <MaterialButtonOutlined24 onClick={() => setMobileQrOpened(true)}>Get mobile app</MaterialButtonOutlined24>
                             </div>
@@ -371,7 +371,7 @@ function WelcomePage() {
                             <div className={"btn-row-mob"}>
                                 <Link to={"https://play.google.com/store/apps/details?id=org.teslasoft.assistant"} target={"_blank"}><MaterialButton24>Download app</MaterialButton24></Link>
                                 &nbsp;&nbsp;&nbsp;&nbsp;
-                                <a href={"/chat"}><MaterialButtonOutlined24>Launch SpeakGPT</MaterialButtonOutlined24></a>
+                                <a href={"/chat"}><MaterialButtonOutlined24>Launch SpeakGPH</MaterialButtonOutlined24></a>
                             </div>
                         </div>
                     </div>
