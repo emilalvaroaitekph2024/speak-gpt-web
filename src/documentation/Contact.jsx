@@ -18,20 +18,7 @@ import React from 'react';
 import DocPage from "../components/DocPage";
 
 const pageContent = `
-> Name: Dmytro Ostapenko (AndraxDev)
->
-> Email: dostapenko82@gmail.com
->
-> Phone: +421951829517
->
-> Legal address: Južná trieda 4B, 04001 Košice, Slovakia 04001
->
-> Legal entity ID: 55545386
->
-> Site: [andrax.dev](https://andrax.dev)
->
-> GitHub: [github.com/AndraxDev](https://github.com/AndraxDev)
-`;
+> 
 
 function Contact() {
     return (
