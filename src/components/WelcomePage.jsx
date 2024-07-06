@@ -238,8 +238,8 @@ function WelcomePage() {
                     <div className={"app-info"}>
                         <img src={"./logo192.webp"} alt={"SpeakGPT"} className={"app-logo"}/>
                         <div className={"app-info-text"}>
-                            <h1 className={"app-title"}>SpeakGPT</h1>
-                            <p className={"app-desc"}>SpeakGPT is an advanced and highly intuitive open-source AI
+                            <h1 className={"app-title"}>SpeakGPH</h1>
+                            <p className={"app-desc"}>SpeakGPH is an advanced and highly intuitive open-source AI
                                 assistant that
                                 utilizes the powerful OpenAI technologies to provide you with unparalleled performance
                                 and functionality.</p>
@@ -351,24 +351,6 @@ function WelcomePage() {
                             <a className={"footer-link"} href={"/sitemap.xml"}>Site map</a>
                         </div>
                         <div className={"vertical-divider"}></div>
-                        <div className={"footer-column"}>
-                            <Link className={"footer-link"} to={"https://github.com/AndraxDev/speak-gpt-web"}
-                                  target={"_blank"}>GitHub</Link>
-                            <Link className={"footer-link"} to={"https://github.com/AndraxDev/speak-gpt"}
-                                  target={"_blank"}>GitHub
-                                (Android)</Link>
-                            <Link className={"footer-link"}
-                                  to={"https://play.google.com/store/apps/details?id=org.teslasoft.assistant"}
-                                  target={"_blank"}>Google Play</Link>
-                            <Link className={"footer-link"} to={"https://buymeacoffee.com/andrax_dev"}
-                                  target={"_blank"}>Buy me a
-                                coffee</Link>
-                            <Link className={"footer-link"} to={"https://ko-fi.com/andrax_dev"}
-                                  target={"_blank"}>Ko-fi</Link>
-                            <Link className={"footer-link"} to={"https://andrax.dev"} target={"_blank"}>AndraxDev</Link>
-                            <Link className={"footer-link"} to={"https://teslasoft.org"}
-                                  target={"_blank"}>Teslasoft</Link>
-                        </div>
                     </div>
                     <hr className={"footer-divider"}/>
                     <p className={"copyright"}>© 2023-2024 <a href={"https://andrax.dev/"} target={"_blank"} className={"link-special"}>AndraxDev</a>. All rights reserved.</p>
@@ -379,8 +361,8 @@ function WelcomePage() {
                     <div className={"app-info-mob"}>
                         <img src={"./logo192.webp"} alt={"SpeakGPT"} className={"app-logo-mob"}/>
                         <div className={"app-info-text"}>
-                            <h1 className={"app-title-mob"}>SpeakGPT</h1>
-                            <p className={"app-desc-mob"}>SpeakGPT is an advanced and highly intuitive open-source AI
+                            <h1 className={"app-title-mob"}>SpeakGPH</h1>
+                            <p className={"app-desc-mob"}>SpeakGPH is an advanced and highly intuitive open-source AI
                                 assistant
                                 that
                                 utilizes the powerful OpenAI technologies to provide you with unparalleled performance
@@ -489,23 +471,6 @@ function WelcomePage() {
                             <a className={"footer-link"} href={"/sitemap.xml"}>Site map</a>
                         </div>
                         <div className={"vertical-divider-mob"}></div>
-                        <div className={"footer-column"}>
-                            <Link className={"footer-link"} to={"https://github.com/AndraxDev/speak-gpt-web"}
-                                  target={"_blank"}>GitHub</Link>
-                            <Link className={"footer-link"} to={"https://github.com/AndraxDev/speak-gpt"}
-                                  target={"_blank"}>GitHub
-                                (Android)</Link>
-                            <Link className={"footer-link"}
-                                  to={"https://play.google.com/store/apps/details?id=org.teslasoft.assistant"}
-                                  target={"_blank"}>Google Play</Link>
-                            <Link className={"footer-link"} to={"https://buymeacoffee.com/andrax_dev"}
-                                  target={"_blank"}>Buy me a
-                                coffee</Link>
-                            <Link className={"footer-link"} to={"https://ko-fi.com/andrax_dev"}
-                                  target={"_blank"}>Ko-fi</Link>
-                            <Link className={"footer-link"} to={"https://andrax.dev"} target={"_blank"}>AndraxDev</Link>
-                            <Link className={"footer-link"} to={"https://teslasoft.org"}
-                                  target={"_blank"}>Teslasoft</Link>
                         </div>
                     </div>
                     <hr className={"footer-divider-mob"}/>
