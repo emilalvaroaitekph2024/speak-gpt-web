@@ -32,15 +32,6 @@ To secure your API key perform the following steps:
 >
 > Obfuscation and resources shrinking allows us to optimize app size, it performance and secure it against reverse engineering or tamper and make sure your credentials like API keys in a safe place. You can request an unobfuscated build or compile it by self to make sure our app is safe.
 
-
-> Developer identity
->
-> Developer name: Dmytro Ostapenko (AndraxDev)\\
-> Contact: dostapenko82@gmail.com, +421951829517\\
-> Legal address: Južná trieda 4B, 04001 Košice, Slovakia 04001\\
-> Legal entity ID: 55545386
-`;
-
 function ApiSafety() {
     return (
         <DocPage title={"API Safety"}>
