@@ -22,7 +22,7 @@ function Chat(props) {
     return (
         <div className={"chat-window"}>
             <div className={"chat-list"}>
-                <h2 className={"page-title"}>SpeakGPT</h2>
+                <h2 className={"page-title"}>SpeakGPH</h2>
                 <Chats/>
             </div>
             <div className={"chat-content"}>
